@@ -1,6 +1,6 @@
 ### Ola! Eu sou Igor 👋
 
-- 🔭 Atualmente estou estudando desenvolvimento web pela trybe
+- 🔭 front end dev
 
 <div align="center">
   <a href="https://github.com/igordss">
